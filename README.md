@@ -19,4 +19,14 @@ After generating the initial web application with AI-assisted tools, I tested th
 - Enter a custom player name for a personalized experience.
 - Start a new game or reset statistics at any time.
 - Responsive design that works across different screen sizes.
-- Clean and modern user interface. 
+- Clean and modern user interface.
+
+# WHAT I LEARNED
+Through this project, I learned:
+- How to implement game logic using Python.
+- How to use functions, loops, conditionals, and dictionaries to solve programming problems.
+- How to organize a project across multiple files and technologies.
+- The importance of testing and debugging to ensure a smooth user experience.
+- How to review, understand, and customize AI-generated code instead of using it blindly.
+- How to use GitHub to manage and showcase projects.
+- How to approach software development by combining programming skills with modern AI-assisted tools.
