@@ -31,4 +31,13 @@ Through this project, I learned:
 - How to use GitHub to manage and showcase projects.
 - How to approach software development by combining programming skills with modern AI-assisted tools.
 
-# 
+# CONCLUSION
+Snake Water Gun Arena was an opportunity for me to apply the Python concepts I had learned and turn a simple console-based game into a more interactive project. Along the way, I learned the importance of testing, debugging, and using modern tools effectively. This project represents an important step in my learning journey as a developer.
+
+# DEVELOPED BY
+**Harshit Pandey**
+BCA Student | Aspiring Software Developer
+
+
+
+
