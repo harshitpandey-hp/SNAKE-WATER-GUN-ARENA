@@ -30,3 +30,5 @@ Through this project, I learned:
 - How to review, understand, and customize AI-generated code instead of using it blindly.
 - How to use GitHub to manage and showcase projects.
 - How to approach software development by combining programming skills with modern AI-assisted tools.
+
+# 
